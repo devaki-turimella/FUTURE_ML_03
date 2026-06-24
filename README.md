@@ -34,6 +34,4 @@ A simple custom skill list (`SKILL_LIST` in the code) is used for keyword based 
 add more skills depending on the job role, or upgraded to spaCy Named Entity Recognition for more advanced extraction.
 Python, Pandas, Scikit-learn (TF-IDF + Cosine Similarity), Matplotlib
 
-## Disclaimer
-This is a learning project made for the Future Interns ML internship task,
-not a production-ready hiring tool.
+Author - by Devaki
