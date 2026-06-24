@@ -28,6 +28,8 @@ Why some candidates rank higher
 - Resumes which don't mention those specific skills get a lower score, even if they are good resumes overall, because TF-IDF only looks at word overlap, not actual experience/quality.
 
 Skill list used
+
+
 A simple custom skill list (`SKILL_LIST` in the code) is used for keyword based skill extraction. This is a basic NLP technique. It can easily be extended to
 add more skills depending on the job role, or upgraded to spaCy Named Entity Recognition for more advanced extraction.
 Python, Pandas, Scikit-learn (TF-IDF + Cosine Similarity), Matplotlib
